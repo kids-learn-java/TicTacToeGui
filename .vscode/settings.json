@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/wenguangw/Documents/java/junit-platform-console-standalone-1.8.2.jar",
+        "/Users/wenguangw/Documents/java/javafx-sdk-17.0.1/lib/**/*.jar"
+    ]
+}
